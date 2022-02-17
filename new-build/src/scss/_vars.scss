@@ -21,11 +21,16 @@ $activedColor: #999999;
 %flexCenter {
     display: flex;
     justify-content: center;
-    align-items: center;
+    // align-items: center;
 }
 
 %flexBetween {
     display: flex;
     justify-content: space-between;
+    // align-items: center;
+}
+
+%verticalCenter {
+    display: flex;
     align-items: center;
 }
