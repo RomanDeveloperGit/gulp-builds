@@ -1,1 +1,1 @@
-isWebp();
+checkSupportWebp();
